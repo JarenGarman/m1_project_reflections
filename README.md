@@ -20,12 +20,29 @@ This project is a kind of trivia game that will ask the user questions, take the
 
 ### Reflection Questions:
 
-**1. Pick 1 technical concept you used for this project (look back at our lessons and the learning goals of the project to pick this). Explain what this concept is, how it works, and give an example of where you used this in your code.**<br />
-**2. How do you approach solving something when you don’t have all the information?**<br />
-**3. What was your process when you got stuck?**<br />
-**4. If you had to do this project again, what would you do differently and why?**<br />
-**5. What was your most effective strategy for getting through blockers during this project? How did this help your process?**<br />
-**6. What was the benefit of using TDD while building out this project?**<br />
+**1. Pick 1 technical concept you used for this project (look back at our lessons and the learning goals of the project to pick this). Explain what this concept is, how it works, and give an example of where you used this in your code.**
+
+I used a few enumerables in my project, specifically in my flashcard_runner I used `each` to iterate through my cards during the game.
+
+**2. How do you approach solving something when you don’t have all the information?**
+
+My first step is to clarify what my problem is. I ask myself "What was the expected outcome? What did I want to happen?" This makes it a tad easier to take the next steps which are usually googling or referencing the Ruby API.
+
+**3. What was your process when you got stuck?**
+
+Take a pom, go outside or eat something, and come back with a fresh set of eyes.
+
+**4. If you had to do this project again, what would you do differently and why?**
+
+I would take it slower and try to work at the pace of my cohort-mates so we could help each other through each step.
+
+**5. What was your most effective strategy for getting through blockers during this project? How did this help your process?**
+
+Reading documentation was my saving grace through this project. I learn best by seeing examples and the ruby docs in particular have a ton of examples that were really helpful with understanding what particular methods are doing.
+
+**6. What was the benefit of using TDD while building out this project?**
+
+I was able to see my project take shape before even writing any code. It was very helpful to have that outline of what it needed to do before writing the code.
 
 ## Second Solo
 
@@ -41,9 +58,11 @@ This project is a kind of trivia game that will ask the user questions, take the
 
 ### Reflection Questions:
 
-**1. Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.**<br />
-**2. What was the benefit of using TDD while building out this project?**<br />
-**3. What was a resource that you used during this project and how did you use this to move your project forward?**<br />
+**1. Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.**
+
+**2. What was the benefit of using TDD while building out this project?**
+
+**3. What was a resource that you used during this project and how did you use this to move your project forward?**
 
 ## Paired Paired
 
@@ -59,9 +78,11 @@ This project is a kind of trivia game that will ask the user questions, take the
 
 ### Reflection Questions:
 
-**1. What was your pairing style like? How did you manage your Github work flow? What are your thoughts on that workflow?**<br />
-**2. What skill do you feel you have a better handle on after working on this project? What skill has this project lead you to realize you need more practice on?**<br />
-**3. What strategies help you best work with others? What would you like others to know about how you work best?**<br />
+**1. What was your pairing style like? How did you manage your Github work flow? What are your thoughts on that workflow?**
+
+**2. What skill do you feel you have a better handle on after working on this project? What skill has this project lead you to realize you need more practice on?**
+
+**3. What strategies help you best work with others? What would you like others to know about how you work best?**
 
 ## Group Project
 
@@ -77,6 +98,8 @@ This project is a kind of trivia game that will ask the user questions, take the
 
 ### Reflection Questions:
 
-**1. Group: What conflicts came up and how did you resolve them? This could look like different opinions on how to code a method, what to name a class, when to do stand ups, or communication breakdowns.**<br />
-**2. Pick 1 technical concept you used for this project (look back at our lessons and the learning goals of the project to pick this). Explain what this concept is, how it works, and give an example of where you used this in your code.**<br />
-**3. Describe your team’s code review process. How did you ensure your end product worked and was of high quality?**<br />
+**1. Group: What conflicts came up and how did you resolve them? This could look like different opinions on how to code a method, what to name a class, when to do stand ups, or communication breakdowns.**
+
+**2. Pick 1 technical concept you used for this project (look back at our lessons and the learning goals of the project to pick this). Explain what this concept is, how it works, and give an example of where you used this in your code.**
+
+**3. Describe your team’s code review process. How did you ensure your end product worked and was of high quality?**
