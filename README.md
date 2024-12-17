@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-#### List out the tools you used:
+#### List out the tools you used
 
 1. Ruby
 2. RSpec
@@ -14,11 +14,11 @@
 6. StackOverflow
 7. Ruby API (Ruby Docs)
 
-#### Write a 1-2 sentence synopsis of what this project does:
+#### Write a 1-2 sentence synopsis of what this project does
 
 This project is a kind of trivia game that will ask the user questions, take their answers as input, and keep track of their score.
 
-### Reflection Questions:
+### Reflection Questions
 
 **1. Pick 1 technical concept you used for this project (look back at our lessons and the learning goals of the project to pick this). Explain what this concept is, how it works, and give an example of where you used this in your code.**
 
@@ -48,35 +48,45 @@ I was able to see my project take shape before even writing any code. It was ver
 
 ### Project Overview
 
-#### List out the tools you used:
+#### List out the tools you used
 
-1.
-2.
-3. ...
+1. Ruby
+2. RSpec
+3. Pry
+4. Rubocop
+5. Ruby API (Ruby Docs)
 
-#### Write a 1-2 sentence synopsis of what this project does:
+#### Write a 1-2 sentence synopsis of what this project does
 
-### Reflection Questions:
+This project reads from external data sources to create various objects that can interact with each other.
+
+### Reflection Questions
 
 **1. Describe the steps you took to dig in to this code base. What was your process? If you don’t feel you had a process, define one that you might like to try next time.**
 
+My first step was to look through each lib file to get an idea of the different classes and methods we were given. My next step was to run the tests and examine any failures we got. Troubleshooting the existing codebase gave me a deeper understanding of the code we had available.
+
 **2. What was the benefit of using TDD while building out this project?**
+
+TDD helped me basically write the code within the tests. This way, when I go to write the actual code, I usually know exactly what to write because I've already pseudo-written it in the tests.
 
 **3. What was a resource that you used during this project and how did you use this to move your project forward?**
 
-## Paired Paired
+I used the Study Hall basically every day both to help and to get help from my classmates and bounce ideas off of each other. This made it a really enjoyable experience and we all learned a lot throughout.
+
+## Paired Project
 
 ### Project Overview
 
-#### List out the tools you used:
+#### List out the tools you used
 
 1.
 2.
 3. ...
 
-#### Write a 1-2 sentence synopsis of what this project does:
+#### Write a 1-2 sentence synopsis of what this project does
 
-### Reflection Questions:
+### Reflection Questions
 
 **1. What was your pairing style like? How did you manage your Github work flow? What are your thoughts on that workflow?**
 
@@ -88,15 +98,15 @@ I was able to see my project take shape before even writing any code. It was ver
 
 ### Project Overview
 
-#### List out the tools you used:
+#### List out the tools you used
 
 1.
 2.
 3. ...
 
-#### Write a 1-2 sentence synopsis of what this project does:
+#### Write a 1-2 sentence synopsis of what this project does
 
-### Reflection Questions:
+### Reflection Questions
 
 **1. Group: What conflicts came up and how did you resolve them? This could look like different opinions on how to code a method, what to name a class, when to do stand ups, or communication breakdowns.**
 
